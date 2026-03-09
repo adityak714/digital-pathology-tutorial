@@ -10,7 +10,7 @@ The purpose of this workshop is to explore the possibilities of federate learnin
 
 The local datasets used for each site/clinic/client are created by partitioning a publicly available dataset. If you are doing the workshop led by an instructor, you will take the role of a client setting up a local data node on your own local hardware and join a federation that is deployed by the instructor. You will receive additional instructions for how to obtain your data partition, as well as the configuration file needed to attach to the federation. 
 
-If you are doing the tutorial on your own, you need access to a working deployment of [STACKn](https://github.com/scaleoutsystems/stackn) to do the model and app serving part of the tutorial (Steps 4,5). The federated learning part (1,2,3) can be completed with a deployed [FEDn network](https://github.com/scaleoutsystems/fedn). You will also need to download the raw data and prepare your own data partitions (see instructions below). The data download can take up to a few hours depending on your network connection.    
+If you are doing the tutorial on your own, you need access to a working deployment of [STACKn](https://github.com/scaleoutsystems/stackn) to do the model and app serving part of the tutorial (Steps 4,5). The federated learning part (1,2,3) can be completed with a deployed [FEDn network](https://github.com/scaleoutsystems/fedn). You will also need to download the raw data and prepare your own data partitions (see instructions below). The data download can take up to a few hours depending on your network connection.
 
 ## The model 
 
